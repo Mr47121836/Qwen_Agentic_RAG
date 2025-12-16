@@ -1,0 +1,135 @@
+[
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "教育经历 \n桂林电子科技大学                                                                            2022 年 09 月 – 2025 年 06 月 \n信息与通信工程 硕士(全日制)  党支部宣传委员 计算机网络课程助教 面向对象程序设计助教 \n主修课程 : 嵌入式 Internet 设计、现代通信原理、数字信号处理、深度学习",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "桂林电子科技大学                                                                            2018 年 09 月 – 2022 年 06 月 \n电子信息工程 本科(全日制)    电信一班班长 \n主修课程 : C 语言程序设计、电路分析基础、信号与系统、数字电子技术基础、模拟电子电路、微机原理 \n专业技能 \n⚫ 熟练掌握编程语言 C/C++、Python，熟悉常用数据结构，链表，队列等。 \n⚫ 熟悉电路 Layout 设计，熟练使用 Altium Designer，立创 EDA。",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "⚫ 熟悉电路的调试，Multisim、Proteus 等仿真 软件的使用。  \n⚫ 熟悉硬件接口协议，UART，IIC，SPI。  \n⚫ 熟悉 STM32，FPGA 的使用，熟悉 Vim，Makefile，Shell 脚本的使用。 \n⚫ 熟悉 Git 的使用，通过 CET-4，具有良好的英文文档阅读能力。 \n项目经历 \n基于 STM32 的多功能数控电源       \n项目描述：以 Buck 拓扑为核心，配合 STM32F334 的高级定时器的 PWM、PI 算法，实现的一个很简单的闭环控\n制，设计输入电压 60V 时，输出电压可调，输出电流最大 5A，输出最大功率在 200W 左右。",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "主要工作： \n⚫ 辅助供电电路设计：通过高效的 DC-DC 转换器 XL7005A 和线性稳压器 SPX3819M5 得到各个模块的供电电压。 \n⚫ 信号调理电路设计：确保输入给 MOS 驱动电路和同步降压电路的信号是稳定和准确的。 \n⚫ MOS 驱动电路：使用 UCC27211 驱动 MOSFET 开关，控制电子开关的开启和关闭，接收来自 STM32F334 控制\n电路的 PWM 信号，并将其转化为适合驱动 MOSFET 的电压和电流。 \n⚫ BUCK 同步降压电路：将输入的直流电压降压到所需的输出电压，使用同步降压方式提高效率，减少功率损耗。",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "基于 Cyclone IV E 的波形发生器设计         \n项目描述：设计并实现了一款基于 Cyclone IV E 的波形发生器，能够生成正弦波、方波、三角波三种周期性信号。\n系统支持波形类型和频率的调节，频率范围从 100Hz 到 100kHz，步进间隔≤100Hz。在 50Ω 负载条件下，输出信\n号的峰-峰值最大值≥2V，正弦波频率可达 14MHz，方波和三角波频率可达 1MHz。 \n主要工作： \n波形数据生成：使用 MATLAB 生成三种周期性波形的点数数据存储到 ROM IP 核中，确保波形输出的准确性。",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "用户接口设计：实现了通过按键选择波形类型及调节频率的功能，并通过数码管实时显示当前波形的频率信息 。  \nDDS 模块开发：使用 Verilog 编写直接数字合成（DDS）模块，从 ROM 中读取波形数据，生成高精度的波形信号。 \nDAC 模块设计：使用 AD9708 芯片设计 DAC 模块，将数字波形信号转换为模拟信号，信号经过 7 阶巴特沃兹低通\n滤波器滤波，并通过 AD8066 放大处理，确保输出信号的波形质量和稳定性。 \n荣誉奖励 \n硕士研究生二等奖学金    \n硕士研究生三等奖学金     \n通过计算机二级考试     \n桂林电子科技大学电子设计竞赛二等奖 \n陆志勇\n2",
+    "type": "Document"
+  },
+  {
+    "id": null,
+    "metadata": {
+      "producer": "Microsoft® Word 2016",
+      "creator": "Microsoft® Word 2016",
+      "creationdate": "2024-10-28T19:20:03+08:00",
+      "title": "www.jianlimoban-ziyuan.com",
+      "author": "简历模板资源网",
+      "subject": "免费简历网站",
+      "keywords": "免费简历网站",
+      "moddate": "2024-10-28T19:20:03+08:00",
+      "source": "temp\\temp_d5696bf88fce4fc6b22b271f8f46e2df.pdf",
+      "total_pages": 1,
+      "page": 0,
+      "page_label": "1"
+    },
+    "page_content": "桂林电子科技大学电子设计竞赛二等奖 \n陆志勇\n2 \n13659688059 | 2567033254@qq.com \n2000-12| 男| 壮族| 中共党员",
+    "type": "Document"
+  }
+]
