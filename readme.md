@@ -87,7 +87,7 @@ ollama run qwen3:8b "你好"
 
 ```bash
 # 确保在正确的 conda 环境中
-conda activate tgltommy
+conda activate rag
 
 # 启动 Streamlit 应用
 streamlit run app.py --server.port 6006
@@ -106,13 +106,13 @@ http://localhost:6006
 conda env list
 
 # 激活环境
-conda activate tgltommy
+conda activate rag
 
 # 退出当前环境
 conda deactivate
 
 # 删除环境
-conda env remove -n tgltommy
+conda env remove -n rag
 
 # 导出环境配置
 conda env export > environment.yml
@@ -163,3 +163,4 @@ conda install package_name=版本号
    - 如遇环境问题，可尝试重建环境
    - 检查 Python 版本是否符合要求
    - 确保所有依赖版本兼容
+
